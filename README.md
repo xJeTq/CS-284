@@ -1,2 +1,2 @@
 # CS-284
-Data Structures 
+Homework assignments from Data Structures - Spring 2023 (Java) 
